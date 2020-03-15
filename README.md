@@ -16,7 +16,7 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
 
 <table style="width:100%">
   <tr>
-    <th><img width="150%" height="25%" alt="Aug 24th?" src=images/fig1.PNG><br></th>
+    <th><img width="200%" height="50%" alt="Aug 24th?" src=images/fig1.PNG><br></th>
   </tr>
   <tr>
     <td>Figure 1.</td>
