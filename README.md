@@ -34,6 +34,10 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
   </tr>
 </table>
 
+<p>
+For part 2 I will be attempting to find the following instances recorded in a spectrogram: A arigun, a marine mammal vocalization, and an earthquake.
+</p>
+
 
 <table style="width:100%">
   <tr>
@@ -47,6 +51,9 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
   </tr>
 </table>
 
+<p>
+The airgun noise seems apparent enough. Although these are low frequancy noises, it appears as though the sound caused by these devices bleeds into much higher frequencies.
+</p>
 
 <table style="width:100%">
   <tr>
@@ -60,6 +67,9 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
   </tr>
 </table>
 
+<p>
+Marine mammal vocalizations appear harder to detect. Figure 4 supposedly shows a known time period of whale vocalizations. However from what I understand Whale vocalizations are under 40 Hz, and at arround 140db [1]. Noise prevented any clear vocalization at this frequency to been seen. There are a few interesting shapes seen in this spectrogram. But I believe the two taller shapes to be possibly an airgun, or some other instrument, as they are spaced almost identically spaced as the airgun sounds seen in figures 3 and 5.
+</p>
 
 <table style="width:100%">
   <tr>
@@ -72,3 +82,8 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
     <td>Figure 5.</td>
   </tr>
 </table>
+<p>
+Unfortunatly again I am unable to detect an earthquake with the spectrogram. As at present the noise in the data below 100 HZ is too high. Earthquakes generally produce even lower frequency sounds than Whales.
+</p>
+## References:
+1. “Whale Vocalization.” Wikipedia, Wikimedia Foundation, 8 Mar. 2020, en.wikipedia.org/wiki/Whale_vocalization.
