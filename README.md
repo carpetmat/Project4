@@ -50,6 +50,21 @@ For part 2 I will be attempting to find the following instances recorded in a sp
     <td>Figure 3.</td>
   </tr>
 </table>
+<p>
+Compare the spectral levels and answer these questions:
+</p>
+
+• What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
+
+      test
+      
+• Which one has the highest impact? Rain or wind?
+
+      test
+
+• What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+
+      test
 
 <p>
 The airgun noise seems apparent enough. Although these are low frequancy noises, it appears as though the sound caused by these devices bleeds into much higher frequencies.
