@@ -83,7 +83,9 @@ Marine mammal vocalizations appear harder to detect. Figure 4 supposedly shows a
   </tr>
 </table>
 <p>
-Unfortunatly again I am unable to detect an earthquake with the spectrogram. As at present the noise in the data below 100 HZ is too high. Earthquakes generally produce even lower frequency sounds than Whales.
+Unfortunatly again I am unable to detect an earthquake with the spectrogram. As at present the noise in the data below 100 HZ is too high. Earthquakes generally produce even lower frequency sounds than Whales. However airguns again can be seen in this time range.
 </p>
+
+
 ## References:
 1. “Whale Vocalization.” Wikipedia, Wikimedia Foundation, 8 Mar. 2020, en.wikipedia.org/wiki/Whale_vocalization.
