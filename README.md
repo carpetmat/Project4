@@ -22,3 +22,44 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
     <td>Figure 1.</td>
   </tr>
 </table>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th><img alt="Aug 24th?" src=images/fig2.PNG><br></th>
+  </tr>
+  <tr>
+    <td>Figure 1.</td>
+  </tr>
+</table>
+
+
+<table style="width:100%">
+  <tr>
+    <th><img alt="Aug 24th?" src=images/fig3.PNG><br></th>
+  </tr>
+  <tr>
+    <td>Figure 1.</td>
+  </tr>
+</table>
+
+
+<table style="width:100%">
+  <tr>
+    <th><img alt="Aug 24th?" src=images/fig4.PNG><br></th>
+  </tr>
+  <tr>
+    <td>Figure 1.</td>
+  </tr>
+</table>
+
+
+<table style="width:100%">
+  <tr>
+    <th><img alt="Aug 24th?" src=images/fig5.PNG><br></th>
+  </tr>
+  <tr>
+    <td>Figure 1.</td>
+  </tr>
+</table>
