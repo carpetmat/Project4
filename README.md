@@ -35,6 +35,23 @@ This project I was to download broadband hydrophone data from Oregon Shelf and O
 </table>
 
 <p>
+Compare the spectral levels in the figures above and answer the  following questions:
+</p>
+
+• What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
+
+      Wind appears to have the greatest effect on underwater noise. However there is a discrepancy I cannot explain when comparing the         wind and rain only data for the Oregon Offshore. They appear to be at similar dB levels. However looking at the wind and rain at those times, nothing seems unusual.
+      
+• Which one has the highest impact? Rain or wind?
+
+      test
+
+• What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+
+      test
+
+
+<p>
 For part 2 I will be attempting to find the following instances recorded in a spectrogram: A arigun, a marine mammal vocalization, and an earthquake.
 </p>
 
@@ -50,21 +67,6 @@ For part 2 I will be attempting to find the following instances recorded in a sp
     <td>Figure 3.</td>
   </tr>
 </table>
-<p>
-Compare the spectral levels and answer these questions:
-</p>
-
-• What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-
-      test
-      
-• Which one has the highest impact? Rain or wind?
-
-      test
-
-• What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
-
-      test
 
 <p>
 The airgun noise seems apparent enough. Although these are low frequancy noises, it appears as though the sound caused by these devices bleeds into much higher frequencies.
