@@ -40,8 +40,9 @@ Compare the spectral levels in the figures above and answer the  following quest
 
 • What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 
-      Wind appears to have the greatest effect on underwater noise. However there is a discrepancy I cannot explain when comparing<br>         the wind and rain only data for the Oregon Offshore. They appear to be at similar dB levels. However looking at the wind <br>
-      and rain at those times, nothing seems unusual.
+      Wind appears to have the greatest effect on underwater noise. However there is a discrepancy I cannot explain when comparing
+      the wind and rain only data for the Oregon Offshore. They appear to be at similar dB levels. However looking at the wind and
+      rain at those times, nothing seems unusual.
       
 • Which one has the highest impact? Rain or wind?
 
