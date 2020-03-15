@@ -40,17 +40,20 @@ Compare the spectral levels in the figures above and answer the  following quest
 
 • What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 
-      Wind appears to have the greatest effect on underwater noise. However there is a discrepancy I cannot explain when comparing
-      the wind and rain only data for the Oregon Offshore. They appear to be at similar dB levels. However looking at the wind and
-      rain at those times, nothing seems unusual.
+      Wind and rain seems to have little effect on the amount of noise in a system. However both do seem to increase the
+      overall sound energy of the noise.
+      
+      Also Very interesting is that rain seems to have a much larger spectral level at higher frequencies than wind.
       
 • Which one has the highest impact? Rain or wind?
 
-      test
+      Wind appears to have the greatest effect on underwater noise. However there is a discrepancy I cannot explain when comparing
+      the wind and rain only data for the Oregon Offshore. They appear to be at similar dB levels. However looking at the wind and
+      rain at those times, nothing seems unusual.
 
 • What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
-      test
+      To see if there is a difference in the amount and level of noise near the shore in comparison to farther out at sea.
 
 
 <p>
@@ -102,7 +105,7 @@ Marine mammal vocalizations appear harder to detect. Figure 4 supposedly shows a
   </tr>
 </table>
 <p>
-Unfortunatly again I am unable to detect an earthquake with the spectrogram. As at present the noise in the data below 100 HZ is too high. Earthquakes generally produce even lower frequency sounds than Whales. However airguns again can be seen in this time range.
+Unfortunatly again I am unable to detect an earthquake with the spectrogram. As at present the noise in the data below 100 HZ is too high to allow us to discern any earthquake signs. Earthquakes generally produce even lower frequency sounds than Whales. However airguns again can be seen in this time range.
 </p>
 
 
